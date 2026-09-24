@@ -1,0 +1,14 @@
+{
+  "repo": "viduq3turbo-viduq3-turbo-api",
+  "model": "viduq3-turbo",
+  "display": "Vidu Q3 Turbo",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "540P": 0.032,
+    "720P": 0.048,
+    "1080P": 0.056
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
